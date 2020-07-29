@@ -1,2 +1,2 @@
 # XOR-Decryption
-Simple C++ Script to decrypt xorified data.
+Simple C Script to decrypt xorified data.
